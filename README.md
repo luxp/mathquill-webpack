@@ -1,5 +1,6 @@
 # mathquill-webpack
 > A release mirror for easier mathquill installation with npm and webpack
+
 ## usage
 - First install
 ```
