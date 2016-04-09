@@ -1,0 +1,14 @@
+{
+  "name": "mathquill",
+  "description": "Easily type math in your webapp",
+  "version": "0.10.1",
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luxp/mathquill-webpack.git"
+  },
+  "dependencies": {
+    "jquery": "latest"
+  }
+}
